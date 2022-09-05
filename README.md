@@ -20,7 +20,7 @@ Nonprofit Explorer (by ProPublica) is a particularly excellent resource. When we
 
 Several individuals external to Open990 were instrumental to its operation. The first version of Open990.org’s technology was based on work done at [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=8658). Their decision to open-source that work helped pave the way for what would eventually become this website. CEO Michael Thatcher, in particular, deserves our gratitude for his consistent support.
 
-Cinthia Schuman Ottinger of the [Aspen Institute](https://www.aspeninstitute.org/programs/program-on-philanthropy-and-social-innovation-psi-2/) opened doors for us, and provided us with a means to collaborate directly and in person with experts like Dr. Jesse Lecy of the [National Center for Charitable Statistics (NCCS)](https://nccs.urban.org/) and Miguel Barbosa of [CitizenAudit](https://www.citizenaudit.org/). 
+Cinthia Schuman Ottinger of the [Aspen Institute](https://www.aspeninstitute.org/programs/program-on-philanthropy-and-social-innovation-psi-2/) opened doors for us, and provided us with a means to collaborate directly and in person with experts like Dr. Jesse Lecy of the [National Center for Charitable Statistics (NCCS)](https://nccs.urban.org/about) and Miguel Barbosa of [CitizenAudit](https://www.citizenaudit.org/). 
 
 We would also like to thank the [Pro Bono Partnership](https://www.probonopartner.org/), which provided us with legal guidance at every step of the way.
 

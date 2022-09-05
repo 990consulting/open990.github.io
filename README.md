@@ -28,7 +28,7 @@ Most of all, we would like to thank our fellow members of the Board of Directors
 
 The decision to shut down was not easy or quick. But the first responsibility of a nonprofit is to advance its mission. For reasons both happy and disappointing, shutting down is the action most consistent with Open990.org’s mission to democratize access to usable public data about organizations that claim a charitable tax exemption.
 
-In the month leading up to this decision, we saw over 150,000 unique visitors each month. Hundreds of thousands of people have visited us to help understand the organizations they love, to reveal misuse of the public trust, and to find the best possible recipients for their charitable dollars. We are proud to have supported you through all these goals and more, and we are confident that you will find the resources you need going forward.
+In the month leading up to this decision, we saw over 150,000 unique visitors. Hundreds of thousands of people have visited us to help understand the organizations they love, to reveal misuse of the public trust, and to find the best possible recipients for their charitable dollars. We are proud to have supported you through all these goals and more, and we are confident that you will find the resources you need going forward.
 
 Sincerely,
 

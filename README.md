@@ -8,7 +8,7 @@ The time has come for us to shut down the Open990.org website. For similar infor
 
 The difficult decision to close our virtual doors stems from several factors.
 
-The most urgent issue is data access. Open990.org works by consolidating various public data streams that are published by the IRS. In the past year, IRS data updates have become increasingly unreliable. [Few 990 filings were made available](https://www.irs.gov/charities-non-profits/form-990-series-downloads) through the first half of 2022, and the [Exempt Organization Business Master File](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) began to reflect inconsistencies and delays. 
+The most urgent issue is data access. Open990.org works by consolidating various public data streams that are published by the IRS. In the past year, IRS data updates have become increasingly unreliable. [Few machine-readable filings were made available](https://www.irs.gov/charities-non-profits/form-990-series-downloads) through the first half of 2022, and the [Exempt Organization Business Master File](https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf) began to reflect inconsistencies and delays. 
 
 As the data on which we depend has grown stale, an increasing number of profiles reflect out-of-date information. This is unfair to the constituents of these organizations, who face communication hurdles and lost time trying to reach out. It is even more unfair to the organizations themselves, which lose donations and suffer communication challenges.
 
@@ -28,7 +28,7 @@ Most of all, we would like to thank our fellow members of the Board of Directors
 
 The decision to shut down was not easy or quick. But the first responsibility of a nonprofit is to advance its mission. For reasons both happy and disappointing, shutting down is the action most consistent with Open990.org’s mission to democratize access to usable public data about organizations that claim a charitable tax exemption.
 
-In the month leading up to this decision, we saw over 150,000 unique visitors. Hundreds of thousands of people have visited us to help understand the organizations they love, to reveal misuse of the public trust, and to find the best possible recipients for their charitable dollars. We are proud to have supported you through all these goals and more, and we are confident that you will find the resources you need going forward.
+In the month leading up to this decision, we saw over 170,000 unique visitors. Hundreds of thousands of people have visited us to help understand the organizations they love, to reveal misuse of the public trust, and to find the best possible recipients for their charitable dollars. We are proud to have supported you through all these goals and more, and we are confident that you will find the resources you need going forward.
 
 Sincerely,
 
